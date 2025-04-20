@@ -196,4 +196,13 @@ It will remove the annoying "User joined your channel" sound, but every other no
 ![img](images/ts2.png)
 </details>
 
+## Some recommended keybind changes
+- Ctrl+F12 to hide (almost) all UI
+- Controls -> Weapons -> Throw - 2x G
+- Controls -> Zeus -> Zeus - 2x Y
 
+Controls -> Configure Addons -> cTab ->
+- Toggle Main Interface - U
+- Toggle Secondary Interface - Ctrl+U
+- Toggle Main Tertiary - Alt+U
+- You can also move/resize the Phone if you go to Game -> Layout
